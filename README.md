@@ -51,13 +51,13 @@ https://www.kaggle.com/c/sf-dst-car-price-prediction-part2/data
 
 Файлы в репозитории Репозиторий содержит два ноутбуки:
 
-car_price_part2_best_final.ipynb  - командный проект
+car_price_part2_best_final(5).ipynb  - командный проект
 car-price-part2_eda.ipynb - EDA
 baseline - промежуточный с личными экспериментами
 
 Никнейм на Kaggle tatianazhemantseva
 
-Значение метрики, которого удалось добиться 10.78708
+Значение метрики, которого удалось добиться 10.75142
 
 Ответы на вопросы Какой частью своей работы вы остались особенно довольны?
 
